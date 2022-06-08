@@ -66,22 +66,6 @@
        {
             "teksti": "Mikä on maailman pisin joki?",
             "vaihtoehdot": [{
-                "teksti": "10",
-                "oikein": false
-            }, {
-                "teksti": "12",
-                "oikein": false
-            }, {
-                "teksti": "13",
-                "oikein": false
-            }, {
-                "teksti": "20",
-                "oikein": false
-            }]
-        },
-       {
-            "teksti": "Mikä on maailman pisin joki?",
-            "vaihtoehdot": [{
                 "teksti": "Amazon",
                 "oikein": false
             }, {
