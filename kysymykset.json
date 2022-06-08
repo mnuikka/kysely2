@@ -1,0 +1,35 @@
+{
+    "kysymykset": [{
+            "teksti": "Minä vuonna solmittiin Pähkinäsaaren rauha?",
+            "vaihtoehdot": [{
+                "teksti": "1323",
+                "oikein": true
+            }, {
+                "teksti": "1232",
+                "oikein": false
+            }, {
+                "teksti": "1434",
+                "oikein": false
+            }, {
+                "teksti": "1343",
+                "oikein": false
+            }]
+        },
+        {
+            "teksti": "Minä vuonna solmittiin Täyssinän rauha",
+            "vaihtoehdot": [{
+                "teksti": "1375",
+                "oikein": false
+            }, {
+                "teksti": "1450",
+                "oikein": false
+            }, {
+                "teksti": "1550",
+                "oikein": false
+            }, {
+                "teksti": "1595",
+                "oikein": true
+            }]
+        }
+    ]
+}
