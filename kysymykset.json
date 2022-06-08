@@ -34,7 +34,7 @@
        {
             "teksti": "Mikä on Japanin kansalliskukka?",
             "vaihtoehdot": [{
-                "teksti": "Jakrandapuun kukka",
+                "teksti": "Jakarandapuun kukka",
                 "oikein": false
             }, {
                 "teksti": "Appelsiinin kukka",
