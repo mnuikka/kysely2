@@ -30,6 +30,151 @@
                 "teksti": "1595",
                 "oikein": true
             }]
+        },
+       {
+            "teksti": "Mikä on Japanin kansalliskukka?",
+            "vaihtoehdot": [{
+                "teksti": "Jakrandapuun kukka",
+                "oikein": false
+            }, {
+                "teksti": "Appelsiinin kukka",
+                "oikein": false
+            }, {
+                "teksti": "Kirsikan kukka",
+                "oikein": true
+            }, {
+                "teksti": "Magnolian kukka",
+                "oikein": true
+            }]
+        },
+       {
+            "teksti": "Kuinka monta raitaa Yhdysvaltain lipussa on?",
+            "vaihtoehdot": [{
+                "teksti": "10",
+                "oikein": false
+            }, {
+                "teksti": "12",
+                "oikein": false
+            }, {
+                "teksti": "13",
+                "oikein": true
+            }, {
+                "teksti": "20",
+                "oikein": false
+            }]
+        },
+       {
+            "teksti": "Mikä on maailman pisin joki?",
+            "vaihtoehdot": [{
+                "teksti": "10",
+                "oikein": false
+            }, {
+                "teksti": "12",
+                "oikein": false
+            }, {
+                "teksti": "13",
+                "oikein": false
+            }, {
+                "teksti": "20",
+                "oikein": false
+            }]
+        },
+       {
+            "teksti": "Mikä on maailman pisin joki?",
+            "vaihtoehdot": [{
+                "teksti": "Amazon",
+                "oikein": false
+            }, {
+                "teksti": "Niili",
+                "oikein": true
+            }, {
+                "teksti": "Jangtse",
+                "oikein": false
+            }, {
+                "teksti": "Volga",
+                "oikein": false
+            }]
+        },
+       {
+            "teksti": "Kuinka monta kosketinta pianossa on?",
+            "vaihtoehdot": [{
+                "teksti": "66",
+                "oikein": false
+            }, {
+                "teksti": "77",
+                "oikein": false
+            }, {
+                "teksti": "88",
+                "oikein": true
+            }, {
+                "teksti": "99",
+                "oikein": false
+            }]
+        },
+       {
+            "teksti": "Minä vuonna Netflix perustettiin",
+            "vaihtoehdot": [{
+                "teksti": "1997",
+                "oikein": true
+            }, {
+                "teksti": "2001",
+                "oikein": false
+            }, {
+                "teksti": "2009",
+                "oikein": false
+            }, {
+                "teksti": "2015",
+                "oikein": false
+            }]
+        },
+{
+            "teksti": "Mikä oli Disneyn ensimmäinen elokuva?",
+            "vaihtoehdot": [{
+                "teksti": "Prinsessa Ruusunen",
+                "oikein": false
+            }, {
+                "teksti": "Lumikki",
+                "oikein": true
+            }, {
+                "teksti": "Pinochio",
+                "oikein": false
+            }, {
+                "teksti": "Bambi",
+                "oikein": false
+            }]
+        },
+{
+            "teksti": "Kuka Formula 1 -kuljettaja on voittanut eniten mestaruuksia?",
+            "vaihtoehdot": [{
+                "teksti": "Michael Schumacher",
+                "oikein": true
+            }, {
+                "teksti": "Mika Häkkinen",
+                "oikein": false
+            }, {
+                "teksti": "Lewis Hamilton",
+                "oikein": false
+            }, {
+                "teksti": "Ayrton Senna",
+                "oikein": false
+            }]
+        },
+{
+            "teksti": "Minä vuonna Internet keksittiin?",
+            "vaihtoehdot": [{
+                "teksti": "1975",
+                "oikein": false
+            }, {
+                "teksti": "1980",
+                "oikein": false
+            }, {
+                "teksti": "1985",
+                "oikein": false
+            }, {
+                "teksti": "1990",
+                "oikein": true
+            }]
         }
+
     ]
 }
